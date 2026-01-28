@@ -8,7 +8,7 @@ stylesheets.
 
 ## Demo
 
-![Demo](./demo-optimized.gif)
+![Demo](https://github.com/carbon-design-system/carbon-labs/raw/main/packages/vscode-snippets-extension/demo.gif)
 
 > Type `theme`, `type`, or `$spacing` to see snippets in action
 
